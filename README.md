@@ -1,3 +1,15 @@
+##### Water Game Team
+###### Amro , Ahmad , Bara'a , Shaima , Isra'a
+
+-------------------------------------------------------------------------
+
+##### Monday 23/1
+###### Shaima : Bussines Model 
+###### Team   : Search to choose template and admin-dashboard
+
+------------------------------------------------------------------------
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
